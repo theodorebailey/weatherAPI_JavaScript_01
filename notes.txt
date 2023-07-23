@@ -9,3 +9,24 @@ Link files to html
 
 Download images
 
+create image folder in root
+
+design card element for app in html
+- card
+- top card = search
+- middle card 
+- bottom card 
+
+go to css to create card styling
+
+card --> search --> input, button
+- create card
+    - nest search
+        - nest input + button
+
+css styling
+- card
+- search
+- search --> button + button img
+
+
