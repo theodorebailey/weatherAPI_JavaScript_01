@@ -1,4 +1,11 @@
-Create files - js css
+Create files - js css html
+
+Instantiate files
+- html basic layout
+
+Link files to html
+- link javascript
+- link css 
 
 Download images
 

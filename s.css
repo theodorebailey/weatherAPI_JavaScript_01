@@ -1,6 +1,24 @@
+/* access whole project and set defaults */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* access body, header is backend */
+body {
+    background: #222;
+}
+
+/* set width of card, max width,  background color transition, color, margin, border, padding*/
+.card {
+    width: 90%;
+    max-width: 470px;
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    margin: 20px;
+    border-radius: 20px;
+    padding: 40px 35px;
+    text-align: center;
+
 }
