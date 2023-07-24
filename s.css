@@ -102,7 +102,7 @@ body {
     margin-right: 10px;
 }
 
-.humidity .wind {
+.humidity .wind .long .lat {
     font-size: 28px;
     margin-top: -6px;
 }
