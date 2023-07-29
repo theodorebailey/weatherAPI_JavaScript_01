@@ -1,4 +1,4 @@
-// api key is key provided by open weather 
+// api key is key provided by open weather - for example needed deleting
 const apiKey = "8bce3dfa224b828d214f42fa8c08110d";
 // api url is url plus eventually additional user inputs, additional required text + api key above
 const apiURL = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
